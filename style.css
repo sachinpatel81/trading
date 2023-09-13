@@ -1,0 +1,41 @@
+.cart1{
+    margin-left: 170px;
+    
+}
+.cart2{
+    margin-left: 150px;
+    
+}
+.cart3{
+    margin-left: 170px;
+    
+}
+h2{
+    text-align: center;
+}
+.footer{
+    background-color:black;
+}
+
+
+.info{
+    margin-top: 80px;
+    text-align: center;
+    color: aliceblue;
+}
+.add{
+   
+    text-align: center;
+    margin-top: 80px;
+    color: aliceblue;
+}
+.h2{
+    background-color:black;
+    color: aliceblue;
+}
+.bank{
+    margin-top: 80px;
+}
+body{
+    background-color: rgb(126,201,190);
+}
